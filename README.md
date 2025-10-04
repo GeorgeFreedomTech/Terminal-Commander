@@ -1,8 +1,6 @@
 # Terminal Commander: A Python CLI To-Do App
 
-This project is more than just a simple to-do app. It's a practical case study and a benchmark for exploring modern, AI-assisted development workflows. It serves as the primary example for my article, **"Basic Training is Over: The New Role of Developers in the AI War Room."**
-
-The application is a terminal-based task manager built in Python, adhering to OOP, Single Responsibility, and Separation of Concerns principles.
+A well-architected, terminal-based to-do application built in Python. This project serves as a practical demonstration of applying modern software design principles (OOP, SOLID) to a command-line interface application.
 
 ---
 
@@ -46,7 +44,7 @@ graph TD;
 ```
 ## File Structure
 
-todo-app/
+app/
 │
 ├── main.py
 ├── ui.py
@@ -101,3 +99,6 @@ Copyright (c) 2025 Jiří Svoboda (George Freedom) / George Freedom Tech
 This work (educational materials, including text, explanations, exercises, and accompanying code examples within the Jupyter Notebooks) is licensed under:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
+---
+
+We build for the Future!

@@ -105,7 +105,7 @@ This project and the experience of building it served as the primary catalyst fo
 
 Copyright (c) 2025 Jiří Svoboda (George Freedom) / George Freedom Tech
 
-This work (educational materials, including text, explanations, exercises, and accompanying code examples within the Jupyter Notebooks) is licensed under:
+This project is licensed under:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 ---

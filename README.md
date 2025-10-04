@@ -59,13 +59,16 @@ graph TD;
 ```
 app/
 │
+├── commander_db/
 ├── main.py
 ├── ui.py
 ├── task_manager.py
 ├── database.py
 ├── models.py
 ├── config.py
-└── todo_db/
+│
+├── README.md
+└── LICENSE.md
 ```
 
 

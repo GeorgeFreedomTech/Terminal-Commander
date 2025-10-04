@@ -5,11 +5,11 @@
 This repository contains a terminal-based to-do application built in Python. Think of it not just as an app, but as a foundational blueprint or a mission-critical prototype for a larger system.
 Its primary purpose is not to be a feature-complete product for daily use, but to serve as a clear case study in architecting resilient software, demonstrating several key concepts:
 
-- Applying modern software design principles (OOP, SOLID) – the core engineering needed for any robust autonomous system.
+- Applying **modern software design principles** (OOP, SOLID) – the core engineering needed for any robust autonomous system.
 
-- Utilizing a modern, AI-assisted workflow – a simulation of future, rapid development cycles.
+- Utilizing a modern, **AI-assisted workflow** – a simulation of future, rapid development cycles.
 
-- Visualizing system architecture using Mermaid diagrams – creating the "holographic blueprint" for our mission.
+- Visualizing **system architecture** using Mermaid diagrams – creating the "holographic blueprint" for our mission.
 
 The project's simplicity (a CSV file as a database, a command-line interface) is a deliberate choice. It strips away distractions to keep the focus purely on the underlying architectural patterns that are scalable to more complex challenges.
 

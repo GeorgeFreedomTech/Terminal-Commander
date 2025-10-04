@@ -43,7 +43,7 @@ graph TD;
     C -- "Accesses" --> E;
 ```
 ## File Structure
-
+```
 app/
 │
 ├── main.py
@@ -53,7 +53,7 @@ app/
 ├── models.py
 ├── config.py
 └── todo_db/
-
+```
 ## 💡 Development Philosophy & AI Collaboration
 
 This project was intentionally developed using a modern, AI-assisted workflow to serve as a case study. My role was that of a **System Architect**: I defined the project scope, requirements, and software architecture based on SOLID principles.

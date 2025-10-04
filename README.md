@@ -22,6 +22,8 @@ The project's simplicity (a CSV file as a database, a command-line interface) is
 * **Persistent Storage:** Utilizes a simple `.csv` file as a database, created and managed automatically.
 * **Modular Architecture:** The code is strictly structured to demonstrate a clear separation of concerns (Presentation, Business Logic, Data Access).
 
+---
+
 ## 🏗️ Project Architecture
 
 The application is designed with a multi-tier architecture to ensure maintainability and scalability.
@@ -53,6 +55,9 @@ graph TD;
     B -- "Depends on" --> C;
     C -- "Accesses" --> E;
 ```
+
+---
+
 ## File Structure
 ```
 app/
@@ -65,15 +70,22 @@ app/
 ├── config.py
 └── todo_db/
 ```
+
+---
+
 ## 💡 Development Philosophy & AI Collaboration
 
 This project was built to test a modern, AI-assisted workflow. My contribution was the architectural design and final quality assurance: I defined the requirements and SOLID principles, guided the AI's implementation, and then performed all code reviews and testing. This approach shifts the developer's value from writing code to designing systems and guaranteeing the result.
+
+---
 
 ## 📖 Context & Further Reading
 
 This project and the experience of building it served as the primary catalyst for my article on the evolving role of developers in the AI era. If you are interested in the deeper strategic implications of this workflow, you can read the full article on my website:
 
 * **[Basic Training is Over: The New Role of Developers in the AI War Room](LINK_TO_YOUR_ARTICLE)**
+
+---
 
 ## ⚙️ How to Run
 
@@ -95,11 +107,16 @@ This project and the experience of building it served as the primary catalyst fo
     ```
 4.  Follow the on-screen instructions in your terminal.
 
+---
+
 ## 🔗 Let's Connect:
 
 * Visit my website: **[https://GeorgeFreedom.com](https://GeorgeFreedom.com)**
 * Connect on LinkedIn: **[https://www.linkedin.com/in/georgefreedom/](https://www.linkedin.com/in/georgefreedom/)**
 * Let's talk: **[https://cal.com/georgefreedom](https://cal.com/georgefreedom)**
+
+
+---
 
 ## 📜 License:
 

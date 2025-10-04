@@ -1,5 +1,7 @@
 # Terminal Commander: A Python CLI To-Do App
 
+### **By George Freedom**
+
 This repository contains a terminal-based to-do application built in Python. Think of it not just as an app, but as a foundational blueprint or a mission-critical prototype for a larger system.
 Its primary purpose is not to be a feature-complete product for daily use, but to serve as a clear case study in architecting resilient software, demonstrating several key concepts:
 

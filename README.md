@@ -60,6 +60,7 @@ graph TD;
 app/
 │
 ├── commander_db/
+│   └── to_do_list.csv
 ├── main.py
 ├── ui.py
 ├── task_manager.py

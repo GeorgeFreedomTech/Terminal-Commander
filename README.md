@@ -13,7 +13,6 @@ Its primary purpose is not to be a feature-complete product for daily use, but t
 
 The project's simplicity (a CSV file as a database, a command-line interface) is a deliberate choice. It strips away distractions to keep the focus purely on the underlying architectural patterns that are scalable to more complex challenges.
 
----
 
 ## 🚀 Key Features
 
@@ -22,7 +21,6 @@ The project's simplicity (a CSV file as a database, a command-line interface) is
 * **Persistent Storage:** Utilizes a simple `.csv` file as a database, created and managed automatically.
 * **Modular Architecture:** The code is strictly structured to demonstrate a clear separation of concerns (Presentation, Business Logic, Data Access).
 
----
 
 ## 🏗️ Project Architecture
 
@@ -56,7 +54,6 @@ graph TD;
     C -- "Accesses" --> E;
 ```
 
----
 
 ## File Structure
 ```
@@ -71,13 +68,11 @@ app/
 └── todo_db/
 ```
 
----
 
 ## 💡 Development Philosophy & AI Collaboration
 
 This project was built to test a modern, AI-assisted workflow. My contribution was the architectural design and final quality assurance: I defined the requirements and SOLID principles, guided the AI's implementation, and then performed all code reviews and testing. This approach shifts the developer's value from writing code to designing systems and guaranteeing the result.
 
----
 
 ## 📖 Context & Further Reading
 
@@ -85,7 +80,6 @@ This project and the experience of building it served as the primary catalyst fo
 
 * **[Basic Training is Over: The New Role of Developers in the AI War Room](LINK_TO_YOUR_ARTICLE)**
 
----
 
 ## ⚙️ How to Run
 
@@ -107,7 +101,6 @@ This project and the experience of building it served as the primary catalyst fo
     ```
 4.  Follow the on-screen instructions in your terminal.
 
----
 
 ## 🔗 Let's Connect:
 
@@ -115,8 +108,6 @@ This project and the experience of building it served as the primary catalyst fo
 * Connect on LinkedIn: **[https://www.linkedin.com/in/georgefreedom/](https://www.linkedin.com/in/georgefreedom/)**
 * Let's talk: **[https://cal.com/georgefreedom](https://cal.com/georgefreedom)**
 
-
----
 
 ## 📜 License:
 

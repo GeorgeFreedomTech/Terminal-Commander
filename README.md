@@ -82,7 +82,7 @@ This project was built to test a modern, AI-assisted workflow. My contribution w
 
 This project and the experience of building it served as the primary catalyst for my article on the evolving role of developers in the AI era. If you are interested in the deeper strategic implications of this workflow, you can read the full article on my website:
 
-* **[Basic Training is Over: The New Role of Developers in the AI War Room](LINK_TO_YOUR_ARTICLE)**
+* **[Basic Training is Over: The New Role of Developers in the AI War Room](https://georgefreedom.com/basic-training-is-over-the-new-role-of-developers-in-the-ai-war-room/)**
 
 
 ## ⚙️ How to Run

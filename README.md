@@ -3,29 +3,44 @@
 ### **By George Freedom**
 
 This repository contains a terminal-based to-do application built in Python. Think of it not just as an app, but as a foundational blueprint or a mission-critical prototype for a larger system.
-Its primary purpose is not to be a feature-complete product for daily use, but to serve as a clear case study in architecting resilient software, demonstrating several key concepts:
+Its primary purpose is not to be a feature-complete product for daily use, but to serve as a clear case study in architecting resilient software, demonstrating several key concepts.
 
-- Applying **modern software design principles** (OOP, SOLID) – the core engineering needed for any robust autonomous system.
-
-- Utilizing a modern, **AI-assisted workflow** – a simulation of future, rapid development cycles.
-
-- Visualizing **system architecture** using Mermaid diagrams – creating the "holographic blueprint" for our mission.
-
-The project's simplicity (a CSV file as a database, a command-line interface) is a deliberate choice. It strips away distractions to keep the focus purely on the underlying architectural patterns that are scalable to more complex challenges.
-
+--
 
 ## 🚀 Key Features
+* **SOLID Design:** Strict adherence to OOP principles for a scalable, robust core.
 
-* **Terminal-Based Interface:** A clean and intuitive command-line UI for all operations.
-* **Full CRUD Functionality:** Create, Read (view), Update, and Delete tasks.
-* **Persistent Storage:** Utilizes a simple `.csv` file as a database, created and managed automatically.
-* **Modular Architecture:** The code is strictly structured to demonstrate a clear separation of concerns (Presentation, Business Logic, Data Access).
+* **AI-Assisted Workflow:** Simulation of high-velocity, modern development cycles.
 
+* **CSV Persistence:** Lightweight, automated data storage via localized .csv files.
 
-## 🏗️ Project Architecture
+* **Tactical CLI:** Clean, distraction-free command-line interface for all operations.
 
-The application is designed with a multi-tier architecture to ensure maintainability and scalability.
+* **Decoupled Logic:** Deliberate separation of concerns for maximum maintainability.
 
+--
+
+## ⚙️ System Architecture
+A 3-tier modular structure enforcing strict boundaries between interaction and data.
+
+### 🖥️ Presentation (CLI)
+* **Terminal-based** interface for user input and visual status readouts.
+
+* Integrated **Mermaid** blueprints for system logic visualization.
+
+### 🧠 Logic (Service)
+* Central engine enforcing business rules and **SOLID** architectural patterns.
+
+* Acts as the primary bridge, keeping logic decoupled from I/O.
+
+### 📁 Data (Repository)
+* Manages physical **CSV** I/O and automated file generation.
+
+* Encapsulates storage format to allow seamless backend transitions.
+
+--
+
+### System Diagram
 ```mermaid
 graph TD;
     subgraph "Presentation Layer"

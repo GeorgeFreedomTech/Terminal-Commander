@@ -5,8 +5,6 @@
 This repository contains a terminal-based to-do application built in Python. Think of it not just as an app, but as a foundational blueprint or a mission-critical prototype for a larger system.
 Its primary purpose is not to be a feature-complete product for daily use, but to serve as a clear case study in architecting resilient software, demonstrating several key concepts.
 
---
-
 ## 🚀 Key Features
 * **SOLID Design:** Strict adherence to OOP principles for a scalable, robust core.
 
@@ -18,7 +16,6 @@ Its primary purpose is not to be a feature-complete product for daily use, but t
 
 * **Decoupled Logic:** Deliberate separation of concerns for maximum maintainability.
 
---
 
 ## ⚙️ System Architecture
 A 3-tier modular structure enforcing strict boundaries between interaction and data.
@@ -38,9 +35,8 @@ A 3-tier modular structure enforcing strict boundaries between interaction and d
 
 * Encapsulates storage format to allow seamless backend transitions.
 
---
-
 ### System Diagram
+
 ```mermaid
 graph TD;
     subgraph "Presentation Layer"
